@@ -1,0 +1,1 @@
+1. One function of an operating system is to boot the computer, or in other words, to start it. The devices startup instructions are accessed from the hard drive when the power turns on. These instructions may include loading the user interface or running any antivirus softwares.
